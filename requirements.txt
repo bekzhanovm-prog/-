@@ -1,3 +1,4 @@
-pyvttx; version >= 0.7.0
-pyttsx; version >= 2.90
-
+Flask==3.0.0
+gTTS==2.3.0
+pydub==0.25.1
+ffmpeg-python==0.2.0
