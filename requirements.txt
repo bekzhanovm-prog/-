@@ -1,2 +1,3 @@
-pyttsx3 pydub
+pyvttx; version >= 0.7.0
+pyttsx; version >= 2.90
 
